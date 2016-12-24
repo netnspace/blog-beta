@@ -20,19 +20,14 @@
 		line-height: 1;
 	}
 
-	ol {
+	ul, ol {
 		list-style: none;
 	}
 
 	/**** OVERRIDEN FROM DIMENSION *****/
 	/* List */
 
-	/*li {
-	    display: inline;
-	}*/
-
 	ul {
-		list-style: disc;
 		margin: 0 0 0 -1px;
 		padding-left: 0;
 	}
