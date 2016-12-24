@@ -18,11 +18,17 @@
 
   <body class="right-sidebar">
     <div id="page-wrapper">
-      <div class="wrapper-masthead">
+      <div id="header-wrapper" class="wrapper-masthead">
         <div class="container">
-          <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
+          <header id="header" class="masthead clearfix">
+            <!-- Logo -->
+            <div id="logo">
+								<h1><a href="blog.html">Blog</a></h1>
+								<span>netn.space</span>
+						</div>
+           <!-- <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+-->
+            <!-- Nav -->
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p>
