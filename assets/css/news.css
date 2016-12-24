@@ -27,7 +27,7 @@
 	/**** OVERRIDEN FROM DIMENSION *****/
 	/* List */
 
-	ul {
+	/*ul {
 		margin: 0 0 0 -1px;
 		padding-left: 0;
 	}
@@ -82,7 +82,7 @@
 
 					ul.icons li a:active {
 						background-color: rgba(255, 255, 255, 0.175);
-					}
+					}*/
 
 	blockquote, q {
 		quotes: none;
