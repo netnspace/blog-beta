@@ -105,13 +105,13 @@ img {
 }*/
 
 .site-info {
-  float: left;
+ // float: left;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+//  @include mobile {
+//    float: none;
+//    display: block;
+//    margin: 0 auto;
+//  }
 }
 
 .site-name {
@@ -220,7 +220,7 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
+//  padding: 20px 0;
   text-align: center;
 }
 
