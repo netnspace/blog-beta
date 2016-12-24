@@ -20,16 +20,16 @@
 		line-height: 1;
 	}
 
-	ul, ol {
+	ol {
 		list-style: none;
 	}
 
 	/**** OVERRIDEN FROM DIMENSION *****/
 	/* List */
 
-	li {
+	/*li {
 	    display: inline;
-	}
+	}*/
 
 	ul {
 		list-style: disc;
