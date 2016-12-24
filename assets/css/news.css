@@ -27,9 +27,9 @@
 	/**** OVERRIDEN FROM DIMENSION *****/
 	/* List */
 
-	/*li {
+	li {
 	    display: inline;
-	}*/
+	}
 
 	ul {
 		list-style: disc;
